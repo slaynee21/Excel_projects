@@ -2,6 +2,10 @@
 
 This data cleaning project focuses on a dataset of data science job posts scraped from Glassdoor's website. The dataset contains information about job titles, salary estimation, job descriptions, ratings, companies, locations, headquarters, company size, type of ownership, industry sector, revenue, salary details, job states, same state as headquarters, company age, required skills, job type, and seniority.
 
+Link to dataset:
+https://www.kaggle.com/datasets/rashikrahmanpritom/data-science-job-posting-on-glassdoor?select=Uncleaned_DS_jobs.csv
+
+
 # Cleaning Steps:
 
 1. Delete Index: Remove any index column that is unnecessary for analysis.
